@@ -6,6 +6,7 @@
 # The Experts and their Sessions
 
 Session 1 (3 Segments): Astera Labs Documentation Team
+Added to share.
 
 Segment 1: Back to the Future: Becoming Agents of Change
 
